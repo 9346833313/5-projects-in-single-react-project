@@ -1,0 +1,17 @@
+.card{
+height: 13rem;
+width: 20rem;
+text-align: center;
+
+
+}
+.center {
+    left: 0;
+    right: 0;
+    margin: auto;
+ 
+  }
+  .h1{
+   text-align: center;
+ 
+  }
